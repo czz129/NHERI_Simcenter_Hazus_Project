@@ -10,7 +10,19 @@ Installation Instructions
 This project utilizes datasets from the HAZUS Database. To get started, you do not need to install any additional software or datasets. Simply use the notebook developed for this project.
 
 ## Notebooks
+Here is a table listing all the notebooks along with a one-line description for each:
 
+| Notebook Title                                                | One-Line Description                                                          |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------|
+| BuildingType                   | Focuses on data loading, cleaning, simulation, and sampling for building types.|
+| CA_WA_OR_hzBldgCountOccupB_T_table                       | Processes building count and occupancy data for CA, WA, and OR.               |
+| county_dash                                         | Creates dashboards for county-level data with interactive features.           |
+| Documentation           | Serves as a documentation resource with explanations and instructions with tables in the Processed data        |
+| Hazua_CA_data_sum                                         | Centers on summarizing and analyzing data specific to California.             |
+| Hazuz_NY_sum                                          | Focuses on data summary and analysis for New York.                           |
+| Master_sum                                          | Provides a master summary of various datasets for overarching analysis.       |
+
+Note: Some notebooks do not have clearly defined titles or the titles were extracted from the first markdown cell, which might not always be the actual title of the notebook.
 
 #### 1. BuildingType
 - **Title**: BuildingType
