@@ -6,7 +6,7 @@
 - Zizhuo (Tina) Chen
 - Adam Zsarnóczay
 
-Installation Instructions
+## Installation Instructions
 This project utilizes datasets from the HAZUS Database. To get started, you do not need to install any additional software or datasets. Simply use the notebook developed for this project.
 
 ## Notebooks
@@ -14,13 +14,13 @@ Here is a table listing all the notebooks along with a one-line description for 
 
 | Notebook Title                                                | Notebook Description                                                          |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------|
-| BuildingType                   | Focuses on data loading, cleaning, simulation, and sampling for building types.|
-| CA_WA_OR_hzBldgCountOccupB_T_table                       | Processes building count and occupancy data for CA, WA, and OR.               |
-| county_dash                                         | Creates dashboards for county-level data with interactive features.           |
-| Documentation           | Serves as a documentation resource with explanations and instructions with tables in the Processed data        |
-| Hazua_CA_data_sum                                         | Centers on summarizing and analyzing data specific to California.             |
-| Hazuz_NY_sum                                          | Focuses on data summary and analysis for New York.                           |
-| Master_sum                                          | Provides a master summary of various datasets for overarching analysis.       |
+| BuildingType[BuildingType]                   | Focuses on data loading, cleaning, simulation, and sampling for building types.|
+| CA_WA_OR_hzBldgCountOccupB_T_table[CA_WA_OR_hzBldgCountOccupB_T_table]  | Processes building count and occupancy data for CA, WA, and OR.               |
+| county_dash[county_dash]    | Creates dashboards for county-level data with interactive features.           |
+| Documentation[Documentation]| Serves as a documentation resource with explanations and instructions with tables in the Processed data        |
+| Hazua_CA_data_sum[Hazua_CA_data_sum]| Centers on summarizing and analyzing data specific to California.             |
+| Hazuz_NY_sum[Hazuz_NY_sum] | Focuses on data summary and analysis for New York.                           |
+| Master_sum[Master_sum] | Provides a master summary of various datasets for overarching analysis.       |
 
 
 
@@ -48,11 +48,17 @@ Here is a table listing all the notebooks along with a one-line description for 
 - **Title**: Hazua_CA_data_sum
 - **Description**: This notebook is centered around summarizing and analyzing data specific to California. It includes various data aggregation techniques and focuses on deriving meaningful insights from the summarized data.
 - **Key Code Elements**: Data aggregation methods, analysis of California-specific data, use of statistical techniques for data summarization, and insights extraction.
+![Emeryville Footprint ](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/da8d54c5-5057-4ca6-85f0-9e6b255dbb30)
+![Emeryville Hazus Building Block Score](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/e8c2da89-d581-4cc4-8d6a-7b7468c370da)
+![Emeryville Hazus Building Block Difference Score](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/c06e18ce-6201-45f3-ae98-47aeda70f60b)
 
 #### 6. Hazuz_NY_sum
 - **Title**: Hazuz_NY_sum
 - **Description**: Focuses on data summary and analysis for New York. It involves complex data processing steps, aiming to provide a comprehensive overview of various data points related to New York.
 - **Key Code Elements**: Advanced data processing techniques, summary of New York-specific data, detailed analysis and interpretation of results, and data visualization methods.
+![Park Slope Footprint](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/0c795546-3b9e-4ae7-a14a-a7e1b5240015)
+![Park Slope Hazus Building Block Score](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/34565bf4-3690-403b-9f9b-a6c57682072e)
+![Park Slope Hazus Building Block Difference Score](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/e5241d24-db99-4860-844a-4e5b526f3ecd)
 
 #### 7. Master_sum
 - **Title**: Master_sum
@@ -61,12 +67,11 @@ Here is a table listing all the notebooks along with a one-line description for 
 
 ---
 
-Each notebook has a unique focus and set of key code elements, tailored to specific data processing and analysis tasks. If you require more detailed information on any specific notebook, please let me know!
 
 
-Acknowledgements
+Acknowledgments
 This project makes use of data from the HAZUS Database. We acknowledge the creators and maintainers of this database for their valuable contributions to the field.
 
 License
-[Specify the license under which this project is released, if applicable.]
+[]
 
