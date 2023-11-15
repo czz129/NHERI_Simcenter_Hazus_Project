@@ -12,17 +12,6 @@ This project utilizes datasets from the HAZUS Database. To get started, you do n
 ## Notebooks
 Here is a table listing all the notebooks along with a one-line description for each:
 
-| Notebook Title                                                | Notebook Description                                                          |
-|---------------------------------------------------------------|-------------------------------------------------------------------------------|
-| BuildingType [BuildingType]                   | Focuses on data loading, cleaning, simulation, and sampling for building types.|
-| CA_WA_OR_hzBldgCountOccupB_T_table[CA_WA_OR_hzBldgCountOccupB_T_table]  | Processes building count and occupancy data for CA, WA, and OR.               |
-| county_dash[county_dash]    | Creates dashboards for county-level data with interactive features.           |
-| Documentation[Documentation]| Serves as a documentation resource with explanations and instructions with tables in the Processed data        |
-| Hazua_CA_data_sum[Hazua_CA_data_sum]| Centers on summarizing and analyzing data specific to California.             |
-| Hazuz_NY_sum[Hazuz_NY_sum] | Focuses on data summary and analysis for New York.                           |
-| Master_sum[Master_sum] | Provides a master summary of various datasets for overarching analysis.       |
-
-
 | Notebook Title | Notebook Description |
 |----------------|----------------------|
 | [BuildingType](#buildingtype) | Focuses on data loading, cleaning, simulation, and sampling for building types. |
@@ -34,18 +23,18 @@ Here is a table listing all the notebooks along with a one-line description for 
 | [Master_sum](#master_sum) | Provides a master summary of various datasets for overarching analysis. |
 
 #### 1. BuildingType
-<a name="buildingtype"></a>
+
 - **Title**: BuildingType
 - **Description**: Focuses on data loading, cleaning, simulation, and sampling for building types. It processes state, FIPS code, and county information, combining data from various tables like BuildingCount, Demographics, and TIGERCensusBlock. It categorizes building rises for material assignment.
 - **Key Code Elements**: Package installations, Google Drive mounting, state and county variables, CSV file reading, GeoDataFrame creation, functions for filtering tables, and building material generation.
-
+<a name="buildingtype"></a>
 
 #### 2. CA_WA_OR_hzBldgCountOccupB_T_table
-<a name="ca_wa_or_hzbldgcountoccupb_t_table"></a>
+
 - **Title**: CA_WA_OR_hzBldgCountOccupB_T_table
 - **Description**: This notebook focuses on processing building count and occupancy data for California, Washington, and Oregon. It includes data manipulation and merging techniques, emphasizing the handling of specific building occupancy types and counts.
 - **Key Code Elements**: Reading and processing of CSV files, filtering and merging data based on specific criteria, handling of building count and occupancy types, and data export.
-
+<a name="ca_wa_or_hzbldgcountoccupb_t_table"></a>
 
 #### 3. county_dash
 - **Title**: county_dash
