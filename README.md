@@ -22,7 +22,7 @@ Here is a table listing all the notebooks along with a one-line description for 
 | Hazuz_NY_sum                                          | Focuses on data summary and analysis for New York.                           |
 | Master_sum                                          | Provides a master summary of various datasets for overarching analysis.       |
 
-Note: Some notebooks do not have clearly defined titles or the titles were extracted from the first markdown cell, which might not always be the actual title of the notebook.
+
 
 #### 1. BuildingType
 - **Title**: BuildingType
