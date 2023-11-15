@@ -12,7 +12,7 @@ This project utilizes datasets from the HAZUS Database. To get started, you do n
 ## Notebooks
 Here is a table listing all the notebooks along with a one-line description for each:
 
-| Notebook Title                                                | One-Line Description                                                          |
+| Notebook Title                                                | Notebook Description                                                          |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------|
 | BuildingType                   | Focuses on data loading, cleaning, simulation, and sampling for building types.|
 | CA_WA_OR_hzBldgCountOccupB_T_table                       | Processes building count and occupancy data for CA, WA, and OR.               |
