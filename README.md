@@ -46,13 +46,13 @@ Here is a table listing all the notebooks along with a one-line description for 
 <a name="county_dash"></a>
 
 #### Documentation
-- **Title**: [Documentation](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=CA_WA_OR_hzBldgCountOccupB_T_table.ipynb-,Documentation,-.ipynb)
+- **Title**: [Documentation](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=CA_WA_OR_hzBldgCountOccupB_T_table.ipynb-,Documentation,-.ipynb)(https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Documentation.ipynb)
 - **Description**: Serves as a documentation resource, providing detailed explanations and instructions for various data processing tasks. It includes examples and guidelines for users to follow.
 <a name="documentation"></a>
 
 #### Hazua_CA_data_sum
 
-- **Title**: [Hazua_CA_data_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=Documentation.ipynb-,Hazua_CA_data_sum,-.ipynb)
+- **Title**: [Hazua_CA_data_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Hazua_CA_data_sum.ipynb)
 - **Description**: This notebook is centered around summarizing and analyzing data specific to California. It includes various data aggregation techniques and focuses on deriving meaningful insights from the summarized data.
 - Examples of Geospatial Graphs:
 ![Emeryville Footprint ](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/da8d54c5-5057-4ca6-85f0-9e6b255dbb30)
@@ -62,7 +62,7 @@ Here is a table listing all the notebooks along with a one-line description for 
 
 #### Hazuz_NY_sum
 <a name="hazuz_ny_sum"></a>
-- **Title**: [Hazuz_NY_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=Hazua_CA_data_sum.ipynb-,Hazuz_NY_sum,-.ipynb)
+- **Title**: [Hazuz_NY_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Hazuz_NY_sum.ipynb)
 - **Description**: Focuses on data summary and analysis for New York. It involves complex data processing steps, aiming to provide a comprehensive overview of building counts related to New York.
 - - Examples of Geospatial Graphs:
 ![Park Slope Footprint](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/assets/89886448/0c795546-3b9e-4ae7-a14a-a7e1b5240015)
@@ -71,8 +71,8 @@ Here is a table listing all the notebooks along with a one-line description for 
 
 #### Master_sum
 <a name="master_sum"></a>
-- **Title**: [Master_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=LICENSE-,Master_sum,-.ipynb)
-- **Description**: Aimed at providing a master summary of various datasets after being exported from HAZUS at the county level. It integrates data from multiple sources, offering a holistic view and aiding in overarching data analysis tasks.
+- **Title**: [Master_sum](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Master_sum.ipynb)
+- **Description**: Provide a master summary of various datasets after being exported from HAZUS at the county level. It integrates data from multiple sources with data cleaning methods, offering a holistic view and aiding in overarching data analysis tasks.
 
 ---
 
