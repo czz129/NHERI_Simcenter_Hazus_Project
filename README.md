@@ -37,7 +37,7 @@ Here is a table listing all the notebooks along with a one-line description for 
 <a name="ca_wa_or_hzbldgcountoccupb_t_table"></a>
 #### CA_WA_OR_hzBldgCountOccupB_T_table
 
-- **Title**: [CA_WA_OR_hzBldgCountOccupB_T_table](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=BuildingType%20(1).ipynb-,CA_WA_OR_hzBldgCountOccupB_T_table,-.ipynb)
+- **Title**: [CA_WA_OR_hzBldgCountOccupB_T_table](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/CA_WA_OR_hzBldgCountOccupB_T_table.ipynb)
 - **Description**: This notebook focuses on processing building count and occupancy data for California, Washington, and Oregon. It includes data manipulation and merging techniques, emphasizing the handling of specific building occupancy types and counts.
 
 #### county_dash
