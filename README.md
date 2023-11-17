@@ -2,6 +2,7 @@
 
 ## Project Description
 
+This project entails the development of an extensive U.S. demographic database using SQL Server Management Studio (SSMS), augmented with HAZUS datasets as referenced by academic researchers. The aim is to synthesize vital data for insightful analysis and to facilitate informed decision-making. A significant aspect of the project involves utilizing exploratory data analysis (EDA) techniques to fine-tune the model, achieving a high degree of accuracy—up to 90%—in data representation.  To visualize and interpret geographic trends and area-specific characteristics, the project incorporates the creation of Geospatial graphs utilizing advanced visualization tools such as Plotly and Tableau. These visualizations will serve as a foundation for understanding demographic distributions and trends across various geographical locales. Furthermore, the project spearheads the development of a simulation program capable of predicting the types of construction materials used in various building structures throughout cities in the U.S. This simulation is poised to enhance the current understanding of infrastructure nuances and support the planning and development of future construction projects, contributing to more resilient urban planning and disaster mitigation strategies.
 
 ## Contributors
 - Adam Zsarnóczay (Principal Investigator)
@@ -46,7 +47,7 @@ Here is a table listing all the notebooks along with a one-line description for 
 <a name="county_dash"></a>
 
 #### Documentation
-- **Title**: [Documentation](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=CA_WA_OR_hzBldgCountOccupB_T_table.ipynb-,Documentation,-.ipynb)(https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Documentation.ipynb)
+- **Title**: [Documentation](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/Documentation.ipynb)
 - **Description**: Serves as a documentation resource, providing detailed explanations and instructions for various data processing tasks. It includes examples and guidelines for users to follow.
 <a name="documentation"></a>
 
