@@ -31,7 +31,7 @@ Here is a table listing all the notebooks along with a one-line description for 
 <a name="buildingtype"></a>
 #### BuildingType
 
-- **Title**: [BuildingType](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/edit/main/README.md#:~:text=t-,BuildingType,-(1).ipynb)
+- **Title**: [BuildingType](https://github.com/czz129/NHERI_Simcenter_Hazus_Project/blob/main/BuildingType%20(1).ipynb)
 - **Description**: Focuses on data loading, cleaning, simulation, and sampling for building construction types across the entire US. It processes state, FIPS code, and county information, combining data from various tables like BuildingCount, Demographics, and TIGERCensusBlock.
 
 <a name="ca_wa_or_hzbldgcountoccupb_t_table"></a>
