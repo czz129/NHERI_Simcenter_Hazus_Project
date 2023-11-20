@@ -14,7 +14,7 @@ This project utilizes datasets from the HAZUS Database. To get started, you do n
 ## DataSet
 | Dataset Title | Dataset Description | Link|
 |----------------|----------------------|----|
-|Raw_Data| Contains unprocessed data directly exported from the Hazus Database at the county level| [Link](https://drive.google.com/drive/folders/1E8kSf4Ru7Pgp_YkrlloN5_vsGBRLhSJb?usp=drive_link)|
+|Raw_Data| Contains unprocessed data directly exported from the Hazus database at the county level| [Link](https://drive.google.com/drive/folders/1E8kSf4Ru7Pgp_YkrlloN5_vsGBRLhSJb?usp=drive_link)|
 |Processed_Data| Contains combined data based on tables from each state at the county level. For more information, please refer to the documentation notebook| [Link](https://drive.google.com/drive/folders/1caRGqXaTtMj-hUMndJvwOZuV2Dvo38WN?usp=sharing)|
 |Simulation_Probability_Indicator_File| Contains probability of the construction material based on characteristics of the building region.| [Link](https://drive.google.com/drive/folders/1oGeqZuAJc6_InvAYyM90GiOklu--OjHV?usp=drive_link)|
 ## Notebooks
